@@ -32,3 +32,6 @@ print(f'The animal type is {an1.type}')
 an1.type = "Herbivore"
 
 print(f'The animal type is {an1.type}')
+
+
+print(" This small-error-fix branch is done")
