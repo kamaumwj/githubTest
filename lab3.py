@@ -9,4 +9,6 @@ name = 'HELLO'
 for char in name:
     print(char)
 
+
+print("This is new design with commit")
 print("with small-error-fix")
