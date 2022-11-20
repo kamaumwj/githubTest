@@ -9,4 +9,4 @@ name = 'HELLO'
 for char in name:
     print(char)
 
-print("Lab 3 is on a new-design branch")
+print("with small-error-fix")
