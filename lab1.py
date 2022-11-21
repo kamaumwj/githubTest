@@ -3,3 +3,6 @@ def greeting(first_name=""):
 
 
 greeting("john Mwangi")
+
+
+
